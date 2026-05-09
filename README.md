@@ -18,8 +18,10 @@ This is a frontend web development project focused on creating a clean, scalable
 
 - Integrating base64 images and external icon libraries to enhance visual appeal.
 
-## 📸 The Unofficial Pokémon Page
+## 📸 Preview
 
-**🟢 Live Demo:** [![Pikachu UI Card Preview](./image.png)]([https://yourusername.github.io/your-repo-name](https://biswajeet-4341.github.io/pokemon-ui-card/))
+**🟢 Live Demo:** [View the UI Card Here](https://biswajeet.github.io/pokemon-ui-card)
+
+![Pikachu UI Card Preview](./image.png)
 
 A responsive, highly visual UI card showcasing Pikachu from Generation I...
