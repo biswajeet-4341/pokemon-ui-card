@@ -20,4 +20,4 @@ This is a frontend web development project focused on creating a clean, scalable
 
 ![Pikachu UI Card Preview](./image.png)
 
-A responsive, highly visual UI card showcasing Pikachu from Generation I...
+*A highly visual UI card showcasing Pikachu from Generation I*
